@@ -102,7 +102,8 @@ Password strength checker
 Password generator
 CLI-based functionality
 `
-**Version 2 (Current)**`
+
+`**Version 2 (Current)**``
 Encrypted password vault
 Master password authentication
 Breach detection
@@ -125,3 +126,4 @@ Real-world Python project structuring
 GUI-based application development
 Debugging complex import & packaging issues
 Version-controlled incremental development
+
